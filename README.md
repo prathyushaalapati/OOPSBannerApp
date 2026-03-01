@@ -1,2 +1,0 @@
-# OOPSBannerApp
-OODP
